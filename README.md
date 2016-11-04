@@ -6,15 +6,15 @@ Maintainer: [Jaemin Cho](https://github.com/j-min/)
 
 ## Index
 
-1. [Tools](#1.-Tools)
-2. [Dataset](#2.-Dataset)
-3. [Papers](#3.-Papers)
-4. [Lectures](#4.-Lectures)
-5. [Websites / Blog Posts / Presentations](#5.-Websites-/-Blog-Posts-/-Presentations)
-6. [Researchers / Institutes](#6.-Researchers-/-Institutes)
-7. [Journals / Conferences / Events](#7.-Journals-/-Conferences-/-Events)
-8. [Online Forums](#8.-Online-Forums)
-9. [How to contribute](#9.-How-to-contribute)
+1. [Tools](#1-Tools)
+2. [Dataset](#2-Dataset)
+3. [Papers](#3-Papers)
+4. [Lectures](#4-Lectures)
+5. [Websites / Blog Posts / Presentations](#5-Websites-/-Blog-Posts-/-Presentations)
+6. [Researchers / Institutes](#6-Researchers-/-Institutes)
+7. [Journals / Conferences / Events](#7-Journals-/-Conferences-/-Events)
+8. [Online Forums](#8-Online-Forums)
+9. [How to contribute](#9-How-to-contribute)
 
 ## 1. Tools
 
