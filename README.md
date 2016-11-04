@@ -6,19 +6,19 @@ Maintainer: [Jaemin Cho](https://github.com/j-min/)
 
 ## Index
 
-1. Tools
-2. Dataset
-3. Papers
-4. Lectures
-5. Websites / Blog Posts / Presentations
-6. Researchers / Institutes
-7. Journals / Conferences / Events
-8. Online Forums
-9. How to contribute
+1. [Tools](#1.-Tools)
+2. [Dataset](#2.-Dataset)
+3. [Papers](#3.-Papers)
+4. [Lectures](#4.-Lectures)
+5. [Websites / Blog Posts / Presentations](#5.-Websites-/-Blog-Posts-/-Presentations)
+6. [Researchers / Institutes](#6.-Researchers-/-Institutes)
+7. [Journals / Conferences / Events](#7.-Journals-/-Conferences-/-Events)
+8. [Online Forums](#8.-Online-Forums)
+9. [How to contribute](#9.-How-to-contribute)
 
 ## 1. Tools
 
-# 1.1. POS Tagger
+### 1.1. POS Tagger
 - Hannanum (한나눔) (Java, C) [[link](https://kldp.net/hannanum/)]
 - Kkma (꼬꼬마) (Java) [[link](http://kkma.snu.ac.kr/documents/index.jsp)] [[paper](http://ids.snu.ac.kr/w/images/f/f8/CPL2010-therocks.pdf)]
 - Komoran (Java) [[link](http://www.shineware.co.kr/?page_id=835)]
@@ -30,26 +30,26 @@ Maintainer: [Jaemin Cho](https://github.com/j-min/)
 - dparser (REST API) [[link](http://findyou.readthedocs.io/ko/latest/dparser.html)]
 - Rouzeta [[link](https://shleekr.github.io/)]
 
-# 1.2. Parser
+### 1.2. Parser
 - dparser (REST API) [[link](http://findyou.readthedocs.io/ko/latest/dparser.html)]
 - NLP HUB (Java) [[link](http://semanticweb.kaist.ac.kr/home/index.php/NLP_HUB)]
 
-# 1.3. NE Tagger
+### 1.3. NE Tagger
 - annie [[link](https://github.com/krikit/annie)]
 
-# 1.4. Translator
+### 1.4. Translator
 - Naver NMT [[link](http://labspace.naver.com/nmt/)]
 
-# 1.5. Sentimental Analysis
+### 1.5. Sentimental Analysis
 - OpenHangul (오픈한글) (API) [[link](http://openhangul.com/)] [[paper](http://web.yonsei.ac.kr/dslab/Journal/sentiment%20dictionary.pdf)]
 
-# 1.6. Spell Checker
+### 1.6. Spell Checker
 - PNU Spell Checker [[link](http://speller.cs.pusan.ac.kr/)]
 - Naver Spell Checker [[link](https://search.naver.com/search.naver?where=nexearch&sm=tab_jum&ie=utf8&query=%ED%95%9C%EA%B8%80+%EB%A7%9E%EC%B6%A4%EB%B2%95+%EA%B2%80%EC%82%AC%EA%B8%B0)]
 - Daum Spell Checker [[link](http://alldic.daum.net/grammar_checker.do)]
 - hunspell-ko [[link](https://github.com/changwoo/hunspell-dict-ko)]
 
-# 1.7. Packages
+### 1.7. Packages
 - KoNLP (R\) [[link](https://cran.r-project.org/web/packages/KoNLP/index.html)]
 - KoNLPy (Python) [[link](konlpy.org)] [[paper](http://dmlab.snu.ac.kr/~lucypark/docs/2014-10-10-hclt.pdf)]
 - KoalaNLP (Scala) [[link](https://nearbydelta.github.io/KoalaNLP/)]
