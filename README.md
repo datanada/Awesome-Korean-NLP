@@ -93,12 +93,13 @@ Maintainer: [Jaemin Cho](https://github.com/j-min/)
 - Chosun Archive [[link](http://srchdb1.chosun.com/pdf/i_archive/)]
 - Naver sentiment movie corpus [[link](https://github.com/e9t/nsmc/)]
 
-
 ## 3. Papers
 ## 3.1. Korean
 - 
+
 ## 3.2. English
 - 
+
 ## 4. Lectures
 ## 4.1. Korean Lectures
 - Kangwon Univ. 자연언어처리 [[link](http://cs.kangwon.ac.kr/~leeck/NLP/)]
