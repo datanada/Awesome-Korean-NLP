@@ -130,6 +130,7 @@ Maintainer: [Jaemin Cho](https://github.com/j-min/)
 ## 6. Researchers / Institues
 ### 6.1. Researchers
 - 
+
 ### 6.2. Institutes
 - 언어공학연구회 [[link](https://sites.google.com/site/sighclt/)]
 	- 한글 및 한국어 정보처리 학술대회 (Since 1989, 매년 개최) [[link](https://sites.google.com/site/2016hclt/home)]
