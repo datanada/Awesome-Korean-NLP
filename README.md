@@ -81,6 +81,9 @@ Maintainer: [Jaemin Cho](https://github.com/j-min/)
 	- [Ruby](https://github.com/cheunghy/kroman-gem), [Python](https://github.com/zhangkaiyulw/kroman-py), [NodeJS](https://github.com/cheunghy/kroman-js), [Objective-C](https://github.com/cheunghy/kroman-objc), [Swift](https://github.com/cheunghy/kroman-swift)
 - hangul (Perl) [[link](https://github.com/dragoncrane/hangul)]
 	- Hangul Romanization
+- textrankr (Python) [[link](https://github.com/theeluwin/textrankr)] [[demo](summariz3.herokuapp.com)]
+	- TextRank 기반 한국어 문서 요약
+- 한국어 Word2Vec [[link](http://virgon.snu.ac.kr:8000/)] [[paper](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnwyMDE2aGNsdHxneDozMjkyYjRkYWViM2Q0MzU2)]
 
 ## 2. Dataset
 - Sejong Corpus [[link](https://ithub.korean.go.kr/user/corpus/corpusSearchManager.do)]
@@ -92,6 +95,7 @@ Maintainer: [Jaemin Cho](https://github.com/j-min/)
 - Naver News Archive [[link](http://dna.naver.com)]
 - Chosun Archive [[link](http://srchdb1.chosun.com/pdf/i_archive/)]
 - Naver sentiment movie corpus [[link](https://github.com/e9t/nsmc/)]
+- sci-news-sum-kr-50 [[link](https://github.com/theeluwin/sci-news-sum-kr-50)]
 
 ## 3. Papers
 ## 3.1. Korean
