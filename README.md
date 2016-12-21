@@ -81,7 +81,7 @@ Maintainer: [Jaemin Cho](https://github.com/j-min/)
 	- [Ruby](https://github.com/cheunghy/kroman-gem), [Python](https://github.com/zhangkaiyulw/kroman-py), [NodeJS](https://github.com/cheunghy/kroman-js), [Objective-C](https://github.com/cheunghy/kroman-objc), [Swift](https://github.com/cheunghy/kroman-swift)
 - hangul (Perl) [[link](https://github.com/dragoncrane/hangul)]
 	- Hangul Romanization
-- textrankr (Python) [[link](https://github.com/theeluwin/textrankr)] [[demo](summariz3.herokuapp.com)]
+- textrankr (Python) [[link](https://github.com/theeluwin/textrankr)] [[demo](https://summariz3.herokuapp.com)]
 	- TextRank 기반 한국어 문서 요약
 - 한국어 Word2Vec [[link](http://virgon.snu.ac.kr:8000/)] [[paper](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnwyMDE2aGNsdHxneDozMjkyYjRkYWViM2Q0MzU2)]
 
