@@ -2,48 +2,58 @@
 
 A curated list of resources related to NLP (Natural Language Processing) for Korean + NLP resources in Korean.
 
+Tools specialized for Korean is listed ahead of language-agnostic tools.
+
+Feel free to contribute!
+
 Maintainer: [Jaemin Cho](https://github.com/j-min/)
 
 ## Index
 
-1. [Tools](#1-tools)
-2. [Dataset](#2-dataset)
-3. [Papers](#3-papers)
-4. [Lectures](#4lectures)
-5. [Websites / Blog Posts / Presentations](#5-websites--blog-posts--presentations)
-6. [Researchers / Institutes](#6-researchers--institutes)
-7. [Journals / Conferences / Events](#7-journals--conferences--events)
-8. [Online Forums](#8-online-forums)
-9. [How to contribute](#9-how-to-contribute)
+1. [Tools](#1.-Tools)
+2. [Dataset](#2.-Dataset)
+3. [Papers](#3.-Papers)
+4. [Lectures](#4.-Lectures)
+5. [Blog Posts / Slides ](#5.-Blog-Posts-/-Slides)
+6. [Researchers / Institutes](#6.-Researchers-/-Institutes)
+7. [Journals / Conferences / Events](#7.-Journals-/-Conferences-/-Events)
+8. [Online Forums](#8.-Online-Forums)
+9. [How to contribute](#9.-How-to-contribute)
 
 ## 1. Tools
 
-### 1.1. POS Tagger
+### 1.1. POS Tagger / 형태소 분석기
 - Hannanum (한나눔) (Java, C) [[link](https://kldp.net/hannanum/)]
+	- KoNLPy (Python) [[link](konlpy.org)]
 - Kkma (꼬꼬마) (Java) [[link](http://kkma.snu.ac.kr/documents/index.jsp)] [[paper](http://ids.snu.ac.kr/w/images/f/f8/CPL2010-therocks.pdf)]
+	- KoNLPy (Python) [[link](konlpy.org)]
 - Komoran (Java) [[link](http://www.shineware.co.kr/?page_id=835)]
+	- KoNLPy (Python) [[link](konlpy.org)]
 - Mecab-ko (C++) [[link](https://bitbucket.org/eunjeon/mecab-ko)]
 - Twitter (Scala, Java) [[link](https://github.com/twitter/twitter-korean-text)]
+	- .NET, Node.js, Python, Ruby, Elasitc Search bindings 
 - KTS [[paper](http://scholar.ndsl.kr/schDetail.do?cn=NPAP07926299#)]
 - Arirang (Lucence, Java) [[link](http://cafe.naver.com/korlucene)]
 - 깜짝새 [[link](https://ryubook.wordpress.com/%EA%B9%9C%EC%A7%9D%EC%83%88-1-5-5-beta/)]
 - dparser (REST API) [[link](http://findyou.readthedocs.io/ko/latest/dparser.html)]
-- Rouzeta [[link](https://shleekr.github.io/)]
+- Rouzeta [[link](https://shleekr.github.io/)] [[slide](http://www.slideshare.net/JieunLee5/ss-67333029?ref=https://readme.skplanet.com/?p=13166)] [[video](https://www.youtube.com/watch?v=tkSVbfWZgn8)]
 
-### 1.2. Parser
+### 1.2. Parser / 구문 분석기
 - dparser (REST API) [[link](http://findyou.readthedocs.io/ko/latest/dparser.html)]
 - NLP HUB (Java) [[link](http://semanticweb.kaist.ac.kr/home/index.php/NLP_HUB)]
 
-### 1.3. NE Tagger
+### 1.3. NE Tagger / 개체명 인식기
 - annie [[link](https://github.com/krikit/annie)]
 
-### 1.4. Translator
+### 1.4. Translator / 번역기
 - Naver NMT [[link](http://labspace.naver.com/nmt/)]
+- OpenNMT [[link](http://opennmt.net/)]
+- Google Translator [[link](https://translate.google.com/)]
 
-### 1.5. Sentimental Analysis
-- OpenHangul (오픈한글) (API) [[link](http://openhangul.com/)] [[paper](http://web.yonsei.ac.kr/dslab/Journal/sentiment%20dictionary.pdf)]
+### 1.5. Sentimental Analysis / 감정 분석기
+- OpenHangul (오픈한글) [[link](http://openhangul.com/)] [[paper](http://web.yonsei.ac.kr/dslab/Journal/sentiment%20dictionary.pdf)]
 
-### 1.6. Spell Checker
+### 1.6. Spell Checker / 맞춤법 검사기
 - PNU Spell Checker [[link](http://speller.cs.pusan.ac.kr/)]
 - Naver Spell Checker [[link](https://search.naver.com/search.naver?where=nexearch&sm=tab_jum&ie=utf8&query=%ED%95%9C%EA%B8%80+%EB%A7%9E%EC%B6%A4%EB%B2%95+%EA%B2%80%EC%82%AC%EA%B8%B0)]
 - Daum Spell Checker [[link](http://alldic.daum.net/grammar_checker.do)]
@@ -55,76 +65,101 @@ Maintainer: [Jaemin Cho](https://github.com/j-min/)
 - KoalaNLP (Scala) [[link](https://nearbydelta.github.io/KoalaNLP/)]
 - NLTK (Python) [[link](http://www.nltk.org/)] [[paper](http://www.aclweb.org/anthology/P04-3031)]
 - gensim (Python) [[link](https://radimrehurek.com/gensim/)]
+- FastText (C) [[link](https://github.com/facebookresearch/fastText)]
+	- FastText.py (Python) [[link](https://github.com/salestock/fastText.py)]
+
+### 1.8. Others / 기타
+
+- Hangulpy (Python) [[link](https://github.com/rhobot/Hangulpy)]
+	- 자동 조사/접미사 첨부, 자모 분해 및 결합
+- Hangulize (Python) [[link](https://github.com/sublee/hangulize)]
+	- 외래어 한글 변환
+- kroman [[link](https://github.com/zhangkaiyulw/kroman)]
+	- Hangul Romanization
+	- [Ruby](https://github.com/cheunghy/kroman-gem), [Python](https://github.com/zhangkaiyulw/kroman-py), [NodeJS](https://github.com/cheunghy/kroman-js), [Objective-C](https://github.com/cheunghy/kroman-objc), [Swift](https://github.com/cheunghy/kroman-swift)
+- hangul (Perl) [[link](https://github.com/dragoncrane/hangul)]
+	- Hangul Romanization
 
 ## 2. Dataset
 - Sejong Corpus [[link](https://ithub.korean.go.kr/user/corpus/corpusSearchManager.do)]
 - KAIST Corpus [[link](http://semanticweb.kaist.ac.kr/home/index.php/KAIST_Corpus)]
-- Yonsei Corpus
-- Korea Corpus
+- Yonsei Univ. Corpus
+- Korea Univ. Corpus
 - Wikipedia Dump [[link](https://dumps.wikimedia.org/kowiki/)] [[Extractor](https://github.com/j-min/WikiExtractor_To_the_one_text)]
 - NamuWiki Dump [[link](https://namu.wiki/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EB%8D%A4%ED%94%84)] [[Extractor](https://github.com/j-min/Easy-Namuwiki-Extractor)]
 - Naver News Archive [[link](http://dna.naver.com)]
 - Chosun Archive [[link](http://srchdb1.chosun.com/pdf/i_archive/)]
 - Naver sentiment movie corpus [[link](https://github.com/e9t/nsmc/)]
 
+
 ## 3. Papers
 ## 3.1. Korean
-
+- 
 ## 3.2. English
-
+- 
 ## 4. Lectures
 ## 4.1. Korean Lectures
+- Kangwon Univ. 자연언어처리 [[link](http://cs.kangwon.ac.kr/~leeck/NLP/)]
+- 데이터 사이언스 스쿨 [[link](https://www.datascienceschool.net/)]
+- SNU Data Mining / Business Analytics [[link](https://www.lucypark.kr/courses/)]
 
 
 ## 4.2. English Lectures
 - Stanford CS224N: Natural Language Processing [[link](http://web.stanford.edu/class/cs224n/)] [[YouTube](https://www.youtube.com/playlist?list=PL6397E4B26D00A269)]
 - Stanford CS224d: Deep Learning for Natural Language Processing [[link](http://cs224d.stanford.edu/index.html)] [[YouTube](https://www.youtube.com/playlist?list=PLmImxx8Char9Ig0ZHSyTqGsdhb9weEGam)]
 - NLTK with Python 3 for NLP (by Sentdex) [[YouTube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL)]
+- LDA Topic Models [[link](https://www.youtube.com/watch?v=3mHy4OSyRf0)]
 
-## 5. Websites / Blog Posts / Presentations
-### 5.1. Websites
-- National Insitute of Korean Language (국립국어원) [[link](http://www.korean.go.kr/)]
-- TensorFlow Korea [[link](https://tensorflowkorea.wordpress.com)]
-- AI Study [[link](http://www.aistudy.co.kr/)]
-
-### 5.2. Blog Posts
+## 5. Blog Posts / Slides
+### 5.1. Blog Posts
 - dsindex's blog [[link](http://dsindex.github.io/)]
 - 엑사젠, "혼자 힘으로 한국어 챗봇 개발하기" [[link](http://exagen.tistory.com/notice/63)]
 - Beomsu Kim, "word2vec 관련 이론 정리" [[link](https://shuuki4.wordpress.com/2016/01/27/word2vec-%EA%B4%80%EB%A0%A8-%EC%9D%B4%EB%A1%A0-%EC%A0%95%EB%A6%AC/)]
 - CPUU, "Google 자연어 처리 오픈소스 SyntaxNet 공개" (Korean tranlsation of [Google blog](http://googleresearch.blogspot.kr/2016/05/announcing-syntaxnet-worlds-most.html)) [[link](http://cpuu.postype.com/post/166917/)]
 
-### 5.3. Presentations
+### 5.2. Slides
 - Lucy Park, "한국어와 NLTK, Gensim의 만남" (PyCon APAC 2015) [[link](https://www.lucypark.kr/slides/2015-pyconkr/)]
 - Jeongkyu Shin, "Building AI Chat bot using Python 3 & TensorFlow" (PyCon APAC 2016) [[link](https://speakerdeck.com/inureyes/building-ai-chat-bot-using-python-3-and-tensorflow)]
+- Changki Lee, "RNN & NLP Application" (Kangwon Univ. Machine Learning course) [[link](http://cs.kangwon.ac.kr/~leeck/ML/RNN_NLP.pdf)]
 - Kyunghoon Kim, "뉴스를 재미있게 만드는 방법; 뉴스잼" (PyCon APAC 2016) [[link](http://www.slideshare.net/koorukuroo/20160813-pycon2016apac)]
 - Hongjoo Lee, "Python 으로 19대 국회 뽀개기" (PyCon APAC 2016) [[link](http://www.slideshare.net/hongjoo/python-19-pycon-apac-2016)]
+- 進藤裕之 (translated by Hongbae Kim), "딥러닝을 이용한 자연어처리의 연구동향" [[link](http://www.slideshare.net/ssuser06e0c5/ss-64417928)]
+- Hongbae Kim, "머신러닝의 자연어 처리기술(I)" [[link](http://www.slideshare.net/ssuser06e0c5/i-64267027)]
+ - Changki Lee, "자연어처리를 위한 기계학습 소개" [[link](http://www.slideshare.net/deview/f2-14341235?qid=12363290-1fe5-4903-9a5a-71a4e0c3842f&v=&b=&from_search=7)]
 
 ## 6. Researchers / Institues
-
 ### 6.1. Researchers
-
+- 
 ### 6.2. Institutes
+- 언어공학연구회 [[link](https://sites.google.com/site/sighclt/)]
+	- 한글 및 한국어 정보처리 학술대회 (Since 1989, 매년 개최) [[link](https://sites.google.com/site/2016hclt/home)]
+	- 국어 정보 처리 시스템 경진대회 (Since 2010, 매년 개최, 주최: 문화체육관광부 및 국립국어원) [[link](http://ithub.korean.go.kr/user/contest/contestIntroLastView.do)]
+	- 자연언어처리 튜토리얼 (비정기적) [[link](https://sites.google.com/site/sighclt/haengsasogae/jayeon-eon-eocheoli-tyutolieol)]
+	- 자연어처리 및 정보검색 워크샵 [[link](https://sites.google.com/site/sighclt/haengsasogae/jayeon-eocheoli-mich-jeongbogeomsaeg-wokeusyab-1)]
+- 한국음성학회 [[link](https://ksss.jams.or.kr/co/main/jmMain.kci)]
 
 ## 7. Journals / Conferences / Events
 
 ### 7.1. Journals
 
 ### 7.2. Conferences
+- 한글 및 한국어 정보처리 학술대회 [[link](https://sites.google.com/site/2016hclt/home)]
 - KIPS (한국정보처리학회) [[link](http://www.kips.or.kr/)]
+- 한국음성학회 학술대회 [[link](https://ksss.jams.or.kr/co/com/EgovMenu.kci?s_url=/ac/config/guid/acGuidview.kci?guidId=000000001258&s_MenuId=MENU-000000000032000&s_tabId=1&accnId=AC0000000006)]
 
 ### 7.3. Events
 - 국어 정보 처리 시스템 경진 대회 [[link](http://ithub.korean.go.kr/user/contest/contestIntroLastView.do)]
 
 
 ## 8. Online Forums
+- 언어공학연구회 [[link](https://sites.google.com/site/sighclt/)]
 - Reddit Machine Learning Top posts [[link](https://www.reddit.com/r/MachineLearning/top/)]
 - AI Korea (Facebook Group) [[link](https://www.facebook.com/groups/AIKoreaOpen/)]
 - Tensorflow KR (Facebook Group) [[link](https://www.facebook.com/groups/TensorFlowKR/)]
 - Bot Group (Facebook Group) [[link](https://www.facebook.com/groups/botgroup/)]
+- 바벨피쉬 (Facebook Group) [[link](https://www.facebook.com/groups/babelPish/)]
 
 ## 9. How to contribute
 1) Fork this Repository
-
 2) Edit
-
 3) Create Pull Request! [[Help](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)]
