@@ -24,13 +24,15 @@ Maintainer: [Jaemin Cho](https://github.com/j-min/)
 
 ### 1.1. POS Tagger / 형태소 분석기
 - Hannanum (한나눔) (Java, C) [[link](https://kldp.net/hannanum/)]
-	- KoNLPy (Python) [[link](konlpy.org)]
+	- KoNLPy (Python) [[link](http://konlpy.org/en/v0.4.4/api/konlpy.tag/#module-konlpy.tag._hannanum)]
 - Kkma (꼬꼬마) (Java) [[link](http://kkma.snu.ac.kr/documents/index.jsp)] [[paper](http://ids.snu.ac.kr/w/images/f/f8/CPL2010-therocks.pdf)]
-	- KoNLPy (Python) [[link](konlpy.org)]
+	- KoNLPy (Python) [[link](http://konlpy.org/en/v0.4.4/api/konlpy.tag/#module-konlpy.tag._kkma)]
 - Komoran (Java) [[link](http://www.shineware.co.kr/?page_id=835)]
-	- KoNLPy (Python) [[link](konlpy.org)]
+	- KoNLPy (Python) [[link](http://konlpy.org/en/v0.4.4/api/konlpy.tag/#module-konlpy.tag._komoran)]
 - Mecab-ko (C++) [[link](https://bitbucket.org/eunjeon/mecab-ko)]
+	- KoNLPy (Python) [[link](http://konlpy.org/en/v0.4.4/api/konlpy.tag/#mecab-class)]
 - Twitter (Scala, Java) [[link](https://github.com/twitter/twitter-korean-text)]
+	- KoNLPy (Python) [[link](http://konlpy.org/en/v0.4.4/api/konlpy.tag/#module-konlpy.tag._twitter)]
 	- .NET, Node.js, Python, Ruby, Elasitc Search bindings 
 - KTS [[paper](http://scholar.ndsl.kr/schDetail.do?cn=NPAP07926299#)]
 - Arirang (Lucence, Java) [[link](http://cafe.naver.com/korlucene)]
