@@ -119,6 +119,7 @@ Maintainer: [Jaemin Cho](https://github.com/j-min/)
 - 엑사젠, "혼자 힘으로 한국어 챗봇 개발하기" [[link](http://exagen.tistory.com/notice/63)]
 - Beomsu Kim, "word2vec 관련 이론 정리" [[link](https://shuuki4.wordpress.com/2016/01/27/word2vec-%EA%B4%80%EB%A0%A8-%EC%9D%B4%EB%A1%A0-%EC%A0%95%EB%A6%AC/)]
 - CPUU, "Google 자연어 처리 오픈소스 SyntaxNet 공개" (Korean tranlsation of [Google blog](http://googleresearch.blogspot.kr/2016/05/announcing-syntaxnet-worlds-most.html)) [[link](http://cpuu.postype.com/post/166917/)]
+- theeluwin, "python-crfsuite를 사용해서 한국어 자동 띄어쓰기를 학습해보자" [[link](http://blog.theeluwin.kr/post/147587579528/python-crfsuite%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-%ED%95%9C%EA%B5%AD%EC%96%B4-%EC%9E%90%EB%8F%99-%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0%EB%A5%BC-%ED%95%99%EC%8A%B5%ED%95%B4%EB%B3%B4%EC%9E%90)]
 
 ### 5.2. Slides
 - Lucy Park, "한국어와 NLTK, Gensim의 만남" (PyCon APAC 2015) [[link](https://www.lucypark.kr/slides/2015-pyconkr/)]
