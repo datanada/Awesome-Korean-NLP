@@ -162,5 +162,7 @@ Maintainer: [Jaemin Cho](https://github.com/j-min/)
 
 ## 9. How to contribute
 1) Fork this Repository
+
 2) Edit
+
 3) Create Pull Request! [[Help](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)]
