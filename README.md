@@ -39,6 +39,7 @@ Maintainer: [Jaemin Cho](https://github.com/j-min/)
 - 깜짝새 [[link](https://ryubook.wordpress.com/%EA%B9%9C%EC%A7%9D%EC%83%88-1-5-5-beta/)]
 - dparser (REST API) [[link](http://findyou.readthedocs.io/ko/latest/dparser.html)]
 - Rouzeta [[link](https://shleekr.github.io/)] [[slide](http://www.slideshare.net/JieunLee5/ss-67333029?ref=https://readme.skplanet.com/?p=13166)] [[video](https://www.youtube.com/watch?v=tkSVbfWZgn8)]
+- RHINO (라이노) [[link](https://sourceforge.net/projects/koreananalyzer/)]
 
 ### 1.2. Parser / 구문 분석기
 - dparser (REST API) [[link](http://findyou.readthedocs.io/ko/latest/dparser.html)]
@@ -81,6 +82,8 @@ Maintainer: [Jaemin Cho](https://github.com/j-min/)
 	- [Ruby](https://github.com/cheunghy/kroman-gem), [Python](https://github.com/zhangkaiyulw/kroman-py), [NodeJS](https://github.com/cheunghy/kroman-js), [Objective-C](https://github.com/cheunghy/kroman-objc), [Swift](https://github.com/cheunghy/kroman-swift)
 - hangul (Perl) [[link](https://github.com/dragoncrane/hangul)]
 	- Hangul Romanization
+- 나쁜 단어 사전 [[link](http://badworddictionary.xyz/)]
+	- crowdsourced dic about badword in korean
 
 ## 2. Dataset
 - Sejong Corpus [[link](https://ithub.korean.go.kr/user/corpus/corpusSearchManager.do)]
