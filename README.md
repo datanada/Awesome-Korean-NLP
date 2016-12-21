@@ -83,6 +83,7 @@ Maintainer: [Jaemin Cho](https://github.com/j-min/)
 - hangul (Perl) [[link](https://github.com/dragoncrane/hangul)]
 	- Hangul Romanization
 - 나쁜 단어 사전 [[link](http://badworddictionary.xyz/)]
+	- crowdsourced dic about badword in korean
 
 ## 2. Dataset
 - Sejong Corpus [[link](https://ithub.korean.go.kr/user/corpus/corpusSearchManager.do)]
