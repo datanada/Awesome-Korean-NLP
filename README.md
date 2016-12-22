@@ -135,6 +135,7 @@ Maintainer: [Jaemin Cho](https://github.com/j-min/)
 - Changki Lee, "RNN & NLP Application" (Kangwon Univ. Machine Learning course) [[link](http://cs.kangwon.ac.kr/~leeck/ML/RNN_NLP.pdf)]
 - Kyunghoon Kim, "뉴스를 재미있게 만드는 방법; 뉴스잼" (PyCon APAC 2016) [[link](http://www.slideshare.net/koorukuroo/20160813-pycon2016apac)]
 - Hongjoo Lee, "Python 으로 19대 국회 뽀개기" (PyCon APAC 2016) [[link](http://www.slideshare.net/hongjoo/python-19-pycon-apac-2016)]
+- Kyumin Choi,"word2vec이 추천시스템을 만났을 때" (PyCon APAC 2015) [[link](http://www.slideshare.net/ssuser2fe594/2015-py-con-word2vec)]
 - 進藤裕之 (translated by Hongbae Kim), "딥러닝을 이용한 자연어처리의 연구동향" [[link](http://www.slideshare.net/ssuser06e0c5/ss-64417928)]
 - Hongbae Kim, "머신러닝의 자연어 처리기술(I)" [[link](http://www.slideshare.net/ssuser06e0c5/i-64267027)]
 - Changki Lee, "자연어처리를 위한 기계학습 소개" [[link](http://www.slideshare.net/deview/f2-14341235?qid=12363290-1fe5-4903-9a5a-71a4e0c3842f&v=&b=&from_search=7)]
