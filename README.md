@@ -39,6 +39,7 @@ Maintainer: [Jaemin Cho](https://github.com/j-min/)
 - 깜짝새 [[link](https://ryubook.wordpress.com/%EA%B9%9C%EC%A7%9D%EC%83%88-1-5-5-beta/)]
 - dparser (REST API) [[link](http://findyou.readthedocs.io/ko/latest/dparser.html)]
 - Rouzeta [[link](https://shleekr.github.io/)] [[slide](http://www.slideshare.net/JieunLee5/ss-67333029?ref=https://readme.skplanet.com/?p=13166)] [[video](https://www.youtube.com/watch?v=tkSVbfWZgn8)]
+- seunjeon (Scala, Java) [[link](https://bitbucket.org/eunjeon/seunjeon)]
 
 ### 1.2. Parser / 구문 분석기
 - dparser (REST API) [[link](http://findyou.readthedocs.io/ko/latest/dparser.html)]
