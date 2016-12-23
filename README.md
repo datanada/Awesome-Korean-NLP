@@ -85,7 +85,8 @@ Maintainer: [Jaemin Cho](https://github.com/j-min/)
 	- Hangul Romanization
 - textrankr (Python) [[link](https://github.com/theeluwin/textrankr)] [[demo](https://summariz3.herokuapp.com)]
 	- TextRank 기반 한국어 문서 요약
-- 한국어 Word2Vec [[link](http://virgon.snu.ac.kr:8000/)] [[paper](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnwyMDE2aGNsdHxneDozMjkyYjRkYWViM2Q0MzU2)]
+- 한국어 Word2Vec [[demo](http://virgon.snu.ac.kr:8000/)] [[paper](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnwyMDE2aGNsdHxneDozMjkyYjRkYWViM2Q0MzU2)]
+	- 한국어 Word2Vec의 analogy test 데모
 - 나쁜 단어 사전 [[link](http://badworddictionary.xyz/)]
 	- crowdsourced dic about badword in korean
 
