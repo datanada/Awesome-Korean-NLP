@@ -140,6 +140,7 @@ Maintainer: [Jaemin Cho](https://github.com/j-min/)
 - 進藤裕之 (translated by Hongbae Kim), "딥러닝을 이용한 자연어처리의 연구동향" [[link](http://www.slideshare.net/ssuser06e0c5/ss-64417928)]
 - Hongbae Kim, "머신러닝의 자연어 처리기술(I)" [[link](http://www.slideshare.net/ssuser06e0c5/i-64267027)]
 - Changki Lee, "자연어처리를 위한 기계학습 소개" [[link](http://www.slideshare.net/deview/f2-14341235?qid=12363290-1fe5-4903-9a5a-71a4e0c3842f&v=&b=&from_search=7)]
+- Taeil Kim, Daeneung Son, "기계 번역 모델 기반 질의 교정 시스템" (Naver DEVIEW 2015) [[link](http://www.slideshare.net/deview/242-52779038)]
 
 ## 6. Researchers / Institues
 ### 6.1. Researchers
