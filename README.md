@@ -33,14 +33,15 @@ Maintainer: [Jaemin Cho](https://github.com/j-min/)
 	- KoNLPy (Python) [[link](http://konlpy.org/en/v0.4.4/api/konlpy.tag/#mecab-class)]
 - Twitter (Scala, Java) [[link](https://github.com/twitter/twitter-korean-text)]
 	- KoNLPy (Python) [[link](http://konlpy.org/en/v0.4.4/api/konlpy.tag/#module-konlpy.tag._twitter)]
-	- .NET, Node.js, Python, Ruby, Elasitc Search bindings 
-- KTS [[paper](http://scholar.ndsl.kr/schDetail.do?cn=NPAP07926299#)]
-- Arirang (Lucence, Java) [[link](http://cafe.naver.com/korlucene)]
-- 깜짝새 [[link](https://ryubook.wordpress.com/%EA%B9%9C%EC%A7%9D%EC%83%88-1-5-5-beta/)]
+	- .NET, Node.js, Python, Ruby, Elasitc Search bindings
 - dparser (REST API) [[link](http://findyou.readthedocs.io/ko/latest/dparser.html)]
+- UTagger [[link](http://nlplab.ulsan.ac.kr/doku.php?id=utagger)]
+- Arirang (Lucence, Java) [[link](http://cafe.naver.com/korlucene)]
 - Rouzeta [[link](https://shleekr.github.io/)] [[slide](http://www.slideshare.net/JieunLee5/ss-67333029?ref=https://readme.skplanet.com/?p=13166)] [[video](https://www.youtube.com/watch?v=tkSVbfWZgn8)]
 - seunjeon (Scala, Java) [[link](https://bitbucket.org/eunjeon/seunjeon)]
 - RHINO (라이노) [[link](https://sourceforge.net/projects/koreananalyzer/)]
+- KTS [[paper](http://scholar.ndsl.kr/schDetail.do?cn=NPAP07926299#)]
+- 깜짝새 [[link](https://ryubook.wordpress.com/%EA%B9%9C%EC%A7%9D%EC%83%88-1-5-5-beta/)]
 
 ### 1.2. Parser / 구문 분석기
 - dparser (REST API) [[link](http://findyou.readthedocs.io/ko/latest/dparser.html)]
