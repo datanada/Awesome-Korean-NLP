@@ -106,7 +106,7 @@ Maintainer: [Jaemin Cho](https://github.com/j-min/)
 
 ## 3. Papers
 ## 3.1. Korean
-- 
+- 김동준, 이연수, 장정선, 임해창, 고려대학교, (주)엔씨소프트, "한국어 대화 화행 분류를 위한 어휘 자질의 임베딩(2015년 동계학술발표회 논문집)" [[paper](http://www.eiric.or.kr/KeyDocs/tmp/FN_1512160195019.pdf)] 
 
 ## 3.2. English
 - 
