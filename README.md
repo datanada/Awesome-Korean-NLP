@@ -79,6 +79,8 @@ Maintainer: [Jaemin Cho](https://github.com/j-min/)
 	- 자동 조사/접미사 첨부, 자모 분해 및 결합
 - Hangulize (Python) [[link](https://github.com/sublee/hangulize)]
 	- 외래어 한글 변환
+- Hanja (Python) [[link](https://pypi.python.org/pypi/hanja)]
+	- 한자 한글 변환
 - kroman [[link](https://github.com/zhangkaiyulw/kroman)]
 	- Hangul Romanization
 	- [Ruby](https://github.com/cheunghy/kroman-gem), [Python](https://github.com/zhangkaiyulw/kroman-py), [NodeJS](https://github.com/cheunghy/kroman-js), [Objective-C](https://github.com/cheunghy/kroman-objc), [Swift](https://github.com/cheunghy/kroman-swift)
