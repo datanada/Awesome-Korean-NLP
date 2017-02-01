@@ -1,10 +1,13 @@
 # Awesome-Korean-NLP
 
-A curated list of Natural Language Processing (NLP) resources of|in Korean.
+A curated list of Natural Language Processing (NLP) of 
+- NLP of Korean Text
+- NLP information written in Korean.
 
 Feel free to contribute! or [blab it here](http://collabedit.com/ttqun)
 
 Maintainer: [Jaemin Cho](https://github.com/j-min/)
+
 
 ## Index
 
@@ -19,7 +22,7 @@ Maintainer: [Jaemin Cho](https://github.com/j-min/)
 
 ## 1. Tools
 
-Korean-specific tools are listed ahead of language-agnostic tools.
+(Korean-specific tools are listed ahead of language-agnostic tools.)
 
 ### 1.1. Morpheme/형태소 분석기 +  Part of Speech(PoS)/품사 Tagger 
 - Hannanum (한나눔) (Java, C) [[link](https://kldp.net/hannanum/)]
@@ -42,7 +45,7 @@ Korean-specific tools are listed ahead of language-agnostic tools.
 - KTS [[paper](http://scholar.ndsl.kr/schDetail.do?cn=NPAP07926299#)]
 - 깜짝새 [[link](https://ryubook.wordpress.com/%EA%B9%9C%EC%A7%9D%EC%83%88-1-5-5-beta/)]
 
-### 1.2. NE Tagger / 개체명 인식기
+### 1.2. Named Entity(NE) Tagger / 개체명 인식기
 - annie [[link](https://github.com/krikit/annie)]
 
 ### 1.3. Spell Checker / 맞춤법 검사기
@@ -130,7 +133,7 @@ Korean-specific tools are listed ahead of language-agnostic tools.
 
 ## 4. Papers
 ## 4.1. Korean
-- 김동준, 이연수, 장정선, 임해창, 고려대학교, (주)엔씨소프트, "한국어 대화 화행 분류를 위한 어휘 자질의 임베딩(2015년 동계학술발표회 논문집)" [[paper](http://www.eiric.or.kr/KeyDocs/tmp/FN_1512160195019.pdf)] 
+- ~~김동준, 이연수, 장정선, 임해창, 고려대학교, (주)엔씨소프트, "한국어 대화 화행 분류를 위한 어휘 자질의 임베딩(2015년 동계학술발표회 논문집)" [[paper](http://www.eiric.or.kr/KeyDocs/tmp/FN_1512160195019.pdf)]~~ link dead 
 
 ## 4.2. English
 - 
@@ -177,8 +180,20 @@ Korean-specific tools are listed ahead of language-agnostic tools.
 
 
 ## 8. How to contribute
-1) Fork this Repository
+1) Fork this Repository, by clicking on "fork" icon at the top right corner.
 
-2) Edit
+2) Get the link for the forked repo, by clicking on the green button on your page. something like, "https://github.com/<username>/Awesome-Korean-NLP.git"
 
-3) Create Pull Request! [[Help](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)]
+3) On your local machine, "git clone https://github.com/\<username\>/Awesome-Korean-NLP.git"
+
+4) "cd Awesome-Korean-NLP"
+
+5) open "README.md" with your favorite text editor.
+
+6) Edit.
+
+7) 
+
+7) Create Pull Request! 
+
+[[Help](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)]
