@@ -182,9 +182,9 @@ Maintainer: [Jaemin Cho](https://github.com/j-min/)
 ## 8. How to contribute
 1) Fork this Repository, by clicking on "fork" icon at the top right corner.
 
-2) Get the link for the forked repo, by clicking on the green button on your page. something like, "https://github.com/<username>/Awesome-Korean-NLP.git"
+2) Get the link for the forked repo, by clicking on the green button on your page. something like, "https://github.com/[username]/Awesome-Korean-NLP.git"
 
-3) On your local machine, "git clone https://github.com/\<username\>/Awesome-Korean-NLP.git"
+3) On your local machine, "git clone https://github.com/[username]/Awesome-Korean-NLP.git"
 
 4) "cd Awesome-Korean-NLP"
 
@@ -194,8 +194,11 @@ Maintainer: [Jaemin Cho](https://github.com/j-min/)
 
 7) git commit -a -m "added section 8: emoticons"
 
-8) git push
+8) git push, and verify on your fork
 
-9) Create Pull Request! 
+9) goto https://github.com/datanada/Awesome-Korean-NLP and create pull request. 
+
+10) "compare across forks" with base: datanada/Awesome.. and head: username/Awesome..
+ 
 
 [[beginners guide](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)]
