@@ -198,4 +198,4 @@ Maintainer: [Jaemin Cho](https://github.com/j-min/)
 
 9) Create Pull Request! 
 
-[[Help](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)]
+[[beginners guide](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)]
