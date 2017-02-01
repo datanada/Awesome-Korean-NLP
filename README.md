@@ -198,7 +198,7 @@ Maintainer: [Jaemin Cho](https://github.com/j-min/)
 
 9) goto https://github.com/datanada/Awesome-Korean-NLP and create pull request. 
 
-10) "compare across forks" with base: datanada/Awesome.. and head: username/Awesome..
+10) "compare across forks" with base: datanada/Awesome.. and head: [username]/Awesome..
  
 
 [[beginners guide](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)]
