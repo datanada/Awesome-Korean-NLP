@@ -192,8 +192,10 @@ Maintainer: [Jaemin Cho](https://github.com/j-min/)
 
 6) Edit.
 
-7) 
+7) git commit -a -m "added section 8: emoticons"
 
-7) Create Pull Request! 
+8) git push
+
+9) Create Pull Request! 
 
 [[Help](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)]
