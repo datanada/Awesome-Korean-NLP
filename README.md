@@ -107,7 +107,7 @@ Maintainer: [Jaemin Cho](https://github.com/j-min/)
 - Chosun Archive [[link](http://srchdb1.chosun.com/pdf/i_archive/)]
 - Naver sentiment movie corpus [[link](https://github.com/e9t/nsmc/)]
 - sci-news-sum-kr-50 [[link](https://github.com/theeluwin/sci-news-sum-kr-50)]
-
+- Word Vector Representation for Korean: Evaluation Set (WS-353 for word similarity, Word Analogies) [[link](https://github.com/SungjoonPark/KoreanWordVectors)]
 
 ## 3. Blogs / Slides / Researchers
 ### 3.1. Blogs
@@ -136,7 +136,7 @@ Maintainer: [Jaemin Cho](https://github.com/j-min/)
 - ~~김동준, 이연수, 장정선, 임해창, 고려대학교, (주)엔씨소프트, "한국어 대화 화행 분류를 위한 어휘 자질의 임베딩(2015년 동계학술발표회 논문집)" [[paper](http://www.eiric.or.kr/KeyDocs/tmp/FN_1512160195019.pdf)]~~ link dead 
 
 ## 4.2. English
-- 
+- Park, Sungjoon, et al. "Subword-level Word Vector Representations for Korean." Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). Vol. 1. 2018. [[link](http://www.aclweb.org/anthology/P18-1226)]
 
 
 ## 5. Lectures
