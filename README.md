@@ -85,14 +85,14 @@ Maintainer: [Jaemin Cho](https://github.com/j-min/)
 - kroman [[link](https://github.com/zhangkaiyulw/kroman)]
 	- Hangul Romanization
 	- [Ruby](https://github.com/cheunghy/kroman-gem), [Python](https://github.com/zhangkaiyulw/kroman-py), [NodeJS](https://github.com/cheunghy/kroman-js), [Objective-C](https://github.com/cheunghy/kroman-objc), [Swift](https://github.com/cheunghy/kroman-swift)
-- hangul (Perl) [[link](https://github.com/dragoncrane/hangul)]
-	- Hangul Romanization
+- ~~hangul (Perl) [[link](https://github.com/dragoncrane/hangul)]~~
+	- ~~Hangul Romanization~~ link dead
 - textrankr (Python) [[link](https://github.com/theeluwin/textrankr)] [[demo](https://summariz3.herokuapp.com)]
 	- TextRank 기반 한국어 문서 요약
 - 한국어 Word2Vec [[demo](http://virgon.snu.ac.kr:8000/)] [[paper](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnwyMDE2aGNsdHxneDozMjkyYjRkYWViM2Q0MzU2)]
 	- 한국어 Word2Vec의 analogy test 데모
-- 나쁜 단어 사전 [[link](http://badworddictionary.xyz/)]
-	- crowdsourced dic about badword in korean
+- ~~나쁜 단어 사전 [[link](http://badworddictionary.xyz/)]~~
+	- ~~crowdsourced dic about badword in korean~~ link dead
 
 
 ## 2. Dataset
@@ -199,6 +199,6 @@ Maintainer: [Jaemin Cho](https://github.com/j-min/)
 9) goto https://github.com/datanada/Awesome-Korean-NLP and create pull request. 
 
 10) "compare across forks" with base: datanada/Awesome.. and head: [username]/Awesome..
- 
+
 
 [[beginners guide](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)]
